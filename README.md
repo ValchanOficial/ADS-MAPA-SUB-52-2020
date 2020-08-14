@@ -1,6 +1,7 @@
 # MAPA SUB - ADS - ESTRUTURA DE DADOS I - 2020
 
-O PID do cada processo (Process ID, é um código gerado automaticamente pelo sistema – cada processo tem seu próprio PID);
+O PID do cada processo (Process ID, é um código gerado automaticamente pelo sistema – cada processo tem seu próprio PID); 
+
 O nome do programa/comando que gerou o processo.
 
 O programa deve ter um menu principal em forma de laço de repetição que atenda aos seguintes requisitos:
